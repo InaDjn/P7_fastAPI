@@ -1,8 +1,5 @@
 adjustText==0.7.3
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.10.0
-anaconda-project==0.8.3
 anyio==3.6.1
 appdirs==1.4.4
 applaunchservices==0.2.1
