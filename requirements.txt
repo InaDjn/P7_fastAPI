@@ -4,7 +4,6 @@ anyio==3.6.1
 appdirs==1.4.4
 applaunchservices==0.2.1
 argh==0.26.2
-astropy==4.0.2
 async-generator==1.10
 atomicwrites==1.4.0
 backcall==0.2.0
